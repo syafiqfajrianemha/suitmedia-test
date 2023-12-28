@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Base.Theme.SuitmediaTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.SuitmediaTest" parent="Base.Theme.SuitmediaTest" />
+</resources>
